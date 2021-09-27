@@ -1,0 +1,14 @@
+{
+  "name": "prerender",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "prerender": "^5.16.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
